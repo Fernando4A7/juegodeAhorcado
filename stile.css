@@ -1,0 +1,29 @@
+body{
+	width: 960px;
+	margin: 0 auto;
+}
+
+h2{
+	text-align: center;
+}
+
+#pantalla{
+	border: groove 8px gold;
+	background: gray;
+}
+
+#boton{
+	background-color:red;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bolder;
+	padding: 3px;
+	border: solid 2px black; 
+}
+
+#boton:hover{
+	background-color: lightcoral;
+	font-size: 22px;
+	border: groove 4px red; 
+}
